@@ -40,11 +40,11 @@ Use wire declaration and assign statements to define the functionality of logic 
 Ending module. endmodule is a keywords defined in Verilog.
 
 ## Program:
-/*
+```
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 Developed by: Sowmiya N
 RegisterNumber: 212221230106 
-*/
+```
 ### Half Subtractor
 ```
 module halfsub(A,B,diff,barrow);
